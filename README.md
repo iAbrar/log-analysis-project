@@ -4,7 +4,7 @@ create a reporting tool that prints out reports (in plain text) based on the dat
 ## Project Screen Shot(s)
 
 
-##Getting Started
+## Getting Started
 - To load the [data](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
 - Use the command psql -d news -f newsdata.sql to connect a database and run the necessary SQL statements.
 - Run your app to extract Logs Analysis reportpython log_analysis.py
