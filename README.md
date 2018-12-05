@@ -2,7 +2,7 @@
 create a reporting tool that prints out reports (in plain text) based on the data in the database. This reporting tool is a Python program using the psycopg2 module to connect to the database.
 
 ## Project Screen Shot(s)
-
+![](https://github.com/iAbrar/log-analysis-project/blob/master/Screen%20Shot%202018-11-19%20at%2015.59.25.png)
 
 ## Getting Started
 - To load the [data](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
